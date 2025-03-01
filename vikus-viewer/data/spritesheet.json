@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "type": "sharpsheet",
+    "version": "1",
+    "app": "https://github.com/cpietsch/sharpsheet"
+  },
+  "spritesheets": [
+    {
+      "image": "sprite-1024-0.jpg",
+      "sprites": [
+        {
+          "name": "性教育教材",
+          "position": {
+            "x": 1,
+            "y": 1
+          },
+          "dimension": {
+            "w": 128,
+            "h": 128
+          }
+        },
+        {
+          "name": "上海酷儿影展2021",
+          "position": {
+            "x": 131,
+            "y": 1
+          },
+          "dimension": {
+            "w": 128,
+            "h": 96
+          }
+        },
+        {
+          "name": "上海酷儿影展2020",
+          "position": {
+            "x": 261,
+            "y": 1
+          },
+          "dimension": {
+            "w": 128,
+            "h": 81
+          }
+        },
+        {
+          "name": "上海酷儿影展2019",
+          "position": {
+            "x": 391,
+            "y": 1
+          },
+          "dimension": {
+            "w": 128,
+            "h": 81
+          }
+        },
+        {
+          "name": "上海酷儿影展2017",
+          "position": {
+            "x": 521,
+            "y": 1
+          },
+          "dimension": {
+            "w": 128,
+            "h": 71
+          }
+        },
+        {
+          "name": "上海酷儿影展2018",
+          "position": {
+            "x": 651,
+            "y": 1
+          },
+          "dimension": {
+            "w": 128,
+            "h": 58
+          }
+        },
+        {
+          "name": "中小学健康教育指导纲要",
+          "position": {
+            "x": 781,
+            "y": 1
+          },
+          "dimension": {
+            "w": 128,
+            "h": 43
+          }
+        }
+      ]
+    }
+  ]
+}
