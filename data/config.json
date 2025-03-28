@@ -53,34 +53,34 @@
     "detail": {
       "structure": [      
         {
-          "name": "Description",
-          "source": "_description",
-          "display": "column",
-          "type": "text"
-        },
-        {
           "name": "Year",
           "source": "_year",
           "display": "column",
           "type": "text"
         },
         {
-          "name": "Material",
-          "source": "_material",
+          "name": "Event",
+          "source": "_event",
           "display": "column",
           "type": "text"
-        },
-        {
-          "name": "Dimensions",
-          "source": "column._width + 'mm * ' + column._height + 'mm'",
-          "display": "column",
-          "type": "function"
         },
         {
           "name": "Keywords",
           "source": "_keywords",
           "display": "column",
           "type": "array"
+        },
+        {
+          "name": "Description",
+          "source": "_description",
+          "display": "column",
+          "type": "text"
+        },
+        {
+          "name": "Link",
+          "source": "_link",
+          "display": "column",
+          "type": "text"
         },
         {
           "name": "Id",
